@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.target=PlaneTest
+comment0.text=\r\n\ The\ test\ class\ PlaneTest.\r\n\r\n\ @author\ \ (your\ name)\r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=
+comment1.target=PlaneTest()
+comment1.text=\r\n\ Default\ constructor\ for\ test\ class\ PlaneTest\r\n
+comment2.params=
+comment2.target=void\ constructorDefaultUniqCase()
+comment2.text=\r\n\ Pruebas\ del\ constructor\ por\ defecto\r\n\ Caso\ 1\:\ Caso\ \u00FAnico\r\n
+comment3.params=
+comment3.target=void\ setIdentifierInsideLimits()
+comment3.text=\r\n\ Pruebas\ del\ constructor\ por\ defecto\r\n\ Caso\ 1\:\ Caso\ \u00FAnico\r\n
+comment4.params=
+comment4.target=void\ setFuelInsideLimits()
+comment4.text=\r\n\ Prueba\ del\ m\u00E9todo\ setAge.\ \r\n\ 1.-\ Dentro\ de\ l\u00EDmites\r\n
+comment5.params=
+comment5.target=void\ flyWithFuel()
+comment5.text=\r\n\ Pruebas\ del\ m\u00E9todo\ fly\r\n\ 1.-\ Si\ el\ avi\u00F3n\ tiene\ combustible\ restarle\ 1\ al\ valor\ del\r\n\ combustible\ y\ devolver\ true\r\n
+comment6.params=
+comment6.target=void\ accelerateInsideLimits()
+comment6.text=\r\n\ Pruebas\ del\ m\u00E9todo\ accelerate\r\n\ 1.-\ La\ aceleraci\u00F3n\ dentro\ de\ los\ l\u00EDmites\ permitidos\r\n
+numComments=7

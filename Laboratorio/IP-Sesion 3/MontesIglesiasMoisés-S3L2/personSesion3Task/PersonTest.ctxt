@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=PersonTest
+comment0.text=\r\n\ The\ test\ class\ PersonTest.\r\n\r\n\ @author\ \ Mois\u00E9s\ Montes\ Iglesias\r\n\ @version\ 02/10/2022\r\n
+comment1.params=
+comment1.target=PersonTest()
+comment1.text=\r\n\ Default\ constructor\ for\ test\ class\ PersonTest\r\n
+comment2.params=
+comment2.target=void\ setCriticalAgeInsideLimits()
+comment2.text=\r\n\ Prueba\ del\ m\u00E9todo\ setAge.\ \r\n\ 1.-\ Dentro\ de\ l\u00EDmites\r\n
+comment3.params=
+comment3.target=void\ setCriticalAgeBelowLimits()
+comment3.text=\r\n\ Prueba\ del\ m\u00E9todo\ setAge.\ \r\n\ 2.-\ Debajo\ de\ l\u00EDmites\r\n
+comment4.params=
+comment4.target=void\ setCriticalAgeAboveLimits()
+comment4.text=\r\n\ Prueba\ del\ m\u00E9todo\ setAge.\ \r\n\ 3.-\ Encima\ de\ l\u00EDmites\r\n
+comment5.params=
+comment5.target=void\ getHashCode1()
+comment5.text=\r\n\ Prueba\ del\ m\u00E9todo\ getHashCode.\ \r\n
+numComments=6

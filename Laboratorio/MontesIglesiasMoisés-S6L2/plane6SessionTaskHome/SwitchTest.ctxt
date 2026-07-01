@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=SwitchTest
+comment0.text=\r\n\ The\ test\ class\ SwitchTest.\r\n\r\n\ @author\ \ (Mois\u00E9s\ Montes\ Iglesias)\r\n\ @version\ (23-10-2022)\r\n
+comment1.params=
+comment1.target=SwitchTest()
+comment1.text=\r\n\ Default\ constructor\ for\ test\ class\ SwitchTest\r\n
+comment2.params=
+comment2.target=void\ pressInsideLimitsTrue()
+comment2.text=\r\n\ Test\ que\ comprueba\ el\ m\u00E9todo\ press\ cuando\ \r\n\ los\ valores\ son\ verdaderos\r\n
+comment3.params=
+comment3.target=void\ toStringInsideLimits()
+comment3.text=\r\n\ Test\ que\ comprueba\ el\ m\u00E9todo\ toString\ cuando\ \r\n\ los\ valores\ son\ verdaderos\r\n
+numComments=4

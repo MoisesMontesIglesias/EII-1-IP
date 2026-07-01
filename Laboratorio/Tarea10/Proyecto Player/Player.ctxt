@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.target=Player
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ Player\ here.\r\n\ \r\n\ @author\ (your\ name)\ \r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=
+comment1.target=Player()
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ Prayer\r\n
+comment2.params=name
+comment2.target=void\ setName(java.lang.String)
+comment3.params=
+comment3.target=java.lang.String\ getName()
+comment3.text=\r\n\ Recibir\ el\ nombre\ del\ jugador\r\n
+comment4.params=number
+comment4.target=void\ setNumber(int)
+comment5.params=
+comment5.target=int\ getNumber()
+comment5.text=\r\n\ Recibir\ el\ n\u00FAmero\ del\ jugador\r\n
+comment6.params=
+comment6.target=java.lang.String\ toString()
+comment6.text=\r\n\ Devolver\u00E1\ el\ nombre\ del\ jugador\ y\ su\ respectivo\ n\u00FAmero\r\n
+comment7.params=condition\ msg
+comment7.target=void\ checkParam(boolean,\ java.lang.String)
+numComments=8

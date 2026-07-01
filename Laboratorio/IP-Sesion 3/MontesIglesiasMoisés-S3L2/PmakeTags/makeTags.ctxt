@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.target=makeTags
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ makeTags\ here.\r\n\ \r\n\ @author\ (Mois\u00E9s\ Montes\ Iglesias)\ \r\n\ @version\ (02/10/2022)\r\n
+comment1.params=name
+comment1.target=void\ setName(java.lang.String)
+comment2.params=
+comment2.target=java.lang.String\ getName()
+comment2.text=\r\n\ Nombre\ de\ la\ persona\r\n
+comment3.params=
+comment3.target=makeTags()
+comment3.text=\r\n\ Constructor\ for\ objects\ of\ class\ makeTags\r\n
+comment4.params=tag\ word
+comment4.target=java.lang.String\ makeTags(java.lang.String,\ java.lang.String)
+numComments=5

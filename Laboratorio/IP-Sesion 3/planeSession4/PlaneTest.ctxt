@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=PlaneTest
+comment0.text=\r\n\ The\ test\ class\ PlaneTest.\r\n\r\n\ @author\ \ (your\ name)\r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=
+comment1.target=PlaneTest()
+comment1.text=\r\n\ Default\ constructor\ for\ test\ class\ PlaneTest\r\n
+comment2.params=
+comment2.target=void\ constructorDefaultUniqCase()
+comment2.text=\r\n\ Pruebas\ del\ constructor\ por\ defecto\r\n\ Caso\ 1\:\ Caso\ \u00FAnico\r\n
+numComments=3

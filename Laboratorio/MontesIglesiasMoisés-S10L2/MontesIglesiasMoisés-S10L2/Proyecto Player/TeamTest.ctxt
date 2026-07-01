@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=TeamTest
+comment0.text=\r\n\ The\ test\ class\ TeamTest.\r\n\r\n\ @author\ \ (your\ name)\r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=
+comment1.target=TeamTest()
+comment1.text=\r\n\ Default\ constructor\ for\ test\ class\ TeamTest\r\n
+comment2.params=
+comment2.target=void\ Constructor()
+comment2.text=\r\n\ Test\ sobre\ el\ constructor,\ para\ una\ lista\ vac\u00EDa\ y\ otra\ no\ vac\u00EDa\r\n
+numComments=3

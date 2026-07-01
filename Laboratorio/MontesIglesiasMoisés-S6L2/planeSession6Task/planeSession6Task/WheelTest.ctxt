@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=WheelTest
+comment0.text=\r\n\ The\ test\ class\ WheelTest.\r\n\r\n\ @author\ \ (Mois\u00E9s\ Montes\ Iglesias)\r\n\ @version\ (23-10-2022)\r\n
+comment1.params=
+comment1.target=void\ constructorWithNoParameters()
+comment1.text=\r\n\ Pruebas\ para\ un\ constructor\ sin\ par\u00E1metros\r\n\ Utilizar\u00E1\ valores\ base\ o\ est\u00E1ndar\r\n
+comment2.params=
+comment2.target=void\ constructorWithParameters()
+comment2.text=\r\n\ Prueba\ de\ un\ constructor\ con\ la\ presi\u00F3n\ m\u00E1xima\ >\ 0\ y\ \r\n\ presi\u00F3n\ dentro\ de\ los\ l\u00EDmites\r\n
+comment3.params=
+comment3.target=void\ constructorWithMaxPressure()
+comment3.text=\r\n\ Prueba\ para\ cuando\ la\ presi\u00F3n\ sea\ m\u00E1xima\r\n
+comment4.params=
+comment4.target=void\ constructorWithMaxPressureLowerThan0()
+comment4.text=\r\n\ Prueba\ del\ constructor\ para\ una\ presi\u00F3n\ m\u00E1xima\ menor\ que\ 0\r\n
+comment5.params=
+comment5.target=void\ constructorWithMaxPressureHigherThan1000()
+comment5.text=\r\n\ Prueba\ del\ constructor\ para\ una\ presi\u00F3n\ m\u00E1xima\ mayor\ que\ 1000\r\n
+numComments=6

@@ -1,0 +1,24 @@
+#BlueJ class context
+comment0.target=LandingGearTest
+comment0.text=\r\n\ The\ test\ class\ LandingGearTest.\r\n\r\n\ @author\ \ (Mois\u00E9s\ Montes\ Iglesias)\r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=
+comment1.target=void\ ConstructorWithNoParams()
+comment1.text=\r\n\ Prueba\ del\ constructor\ sin\ par\u00E1metros.\ el\ cual\ tendr\u00E1\ un\ tren\ de\ aterriza\ con\ palanca\ predefinida\ DOWN\ y\ con\ los\ 3\ puntales\ desplegados\r\n
+comment2.params=
+comment2.target=void\ testWithLvAndMoveDown()
+comment2.text=\r\n\ Pruebas\ del\ m\u00E9todo\ moveLever.\ Estando\ bajada\ la\ palanca,\ debe\ quedarse\ bajada\r\n
+comment3.params=
+comment3.target=void\ testWithLvUpAndLvDown()
+comment3.text=\r\n\ Pruebas\ del\ m\u00E9todo\ moveLever.\ Estando\ subida\ la\ palanca,\ debe\ quedarse\ subida\r\n
+comment4.params=
+comment4.target=void\ testLvDownAndLvUp()
+comment4.text=\r\n\ Pruebas\ del\ m\u00E9todo\ moveLever.\ Estando\ bajada\ la\ palanca,\ debemos\ subirla\r\n
+comment5.params=
+comment5.target=void\ testNoOk()
+comment5.text=\r\n\ Pruebas\ del\ m\u00E9todo\ moveLever.\ Sabiendo\ que\ la\ palanca\ est\u00E1\ subida,\ debemos\ bajarla\r\n
+comment6.params=
+comment6.target=void\ testOk()
+comment7.params=
+comment7.target=void\ getCorrectLandingGearToString()
+comment7.text=\ \r\n\ Prueba\ del\ m\u00E9todo\ toString\ el\ cual\ debe\ ser\ igual\ al\ mostrado\r\n
+numComments=8

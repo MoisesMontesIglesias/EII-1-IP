@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=ControlPanel
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ ControlPanel\ here.\r\n\ \r\n\ @author\ (Mois\u00E9s\ Montes\ Iglesias)\ \r\n\ @version\ (23-10-2022)\r\n
+comment1.params=
+comment1.target=ControlPanel()
+comment1.text=\r\n\ Constructor\ de\ un\ Panel\ de\ Control\ por\ defecto\r\n
+comment2.params=
+comment2.target=void\ print()
+comment2.text=\r\n\ M\u00E9todo,\ que\ mediante\ consola,\ muestra\ el\ estado\ completo\ del\ sistema\r\n
+comment3.params=
+comment3.target=void\ press()
+comment3.text=\r\n\ M\u00E9todo\ press\ que\ cambie\ la\ posici\u00F3n\ del\ interruptor\r\n\ y\ encienda\ o\ apague\ la\ bombilla\ seg\u00FAn\ su\ posici\u00F3n\r\n
+comment4.params=condition\ msg
+comment4.target=void\ checkParam(boolean,\ java.lang.String)
+numComments=5

@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.target=FlySimulator
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ FlySimulator\ here.\r\n\ \r\n\ @author\ (your\ name)\ \r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=
+comment1.target=FlySimulator()
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ FlySimulator\r\n
+comment2.params=plane
+comment2.target=boolean\ addPlane(Plane)
+comment2.text=\r\n\ A\u00F1ade\ un\ avi\u00F3n\ al\ simulador.\ El\ avi\u00F3n\ debe\ existir;\ si\ no,\ se\ genera\ una\ excepci\u00F3n\r\n\ Si\ el\ identificador\ ya\ existe\ o\ hay\ otro\ avi\u00F3n\ en\ la\ misma\ posici\u00F3n,\ no\ se\ a\u00F1ade\r\n\ @param\ p\ avi\u00F3n\ a\ a\u00F1adir\r\n\ @param\ true\ si\ se\ ha\ podido\ a\u00F1adir\ el\ avi\u00F3n;\ falso\ si\ no\r\n
+comment3.params=planesNumber
+comment3.target=FlySimulator(int)
+comment3.text=\r\n\ Crea\ un\ simulador\ con\ aviones\r\n\ @param\ planesNumber\ N\u00FAmero\ de\ aviones\ que\ tendr\u00E1\ el\ simulador\r\n
+comment4.params=
+comment4.target=void\ fillWithDots()
+comment5.params=
+comment5.target=void\ print()
+comment6.params=
+comment6.target=void\ simulate()
+comment6.text=\r\n\ Simula\ el\ comportamiento\ de\ los\ aviones\ \r\n
+comment7.params=condition\ msg
+comment7.target=void\ checkParam(boolean,\ java.lang.String)
+numComments=8

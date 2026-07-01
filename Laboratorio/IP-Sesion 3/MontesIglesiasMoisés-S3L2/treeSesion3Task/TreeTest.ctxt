@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=TreeTest
+comment0.text=\r\n\ The\ test\ class\ TreeTest.\r\n\r\n\ @author\ \ Mois\u00E9s\ Montes\ Iglesias\r\n\ @version\ 02/10/2022\r\n
+comment1.params=
+comment1.target=TreeTest()
+comment1.text=\r\n\ Default\ constructor\ for\ test\ class\ TreeTest\r\n
+comment2.params=
+comment2.target=void\ setNumberOfFlowersInsideLimits()
+comment2.text=\r\n\ Prueba\ del\ m\u00E9todo\ setNumberOfFlowers\r\n\ Entre\ los\ l\u00EDmites\ \r\n
+comment3.params=
+comment3.target=void\ setNumberOfFlowersAboveLimits()
+comment3.text=\r\n\ Prueba\ del\ m\u00E9todo\ setNumberOfFlowers\r\n\ Por\ encima\ de\ los\ l\u00EDmites\r\n
+comment4.params=
+comment4.target=void\ setNumberOfFlowersBelowLimits()
+comment4.text=\r\n\ Prueba\ del\ m\u00E9todo\ setNumberOfFlowers\r\n\ Por\ debajo\ de\ los\ l\u00EDmites\r\n
+numComments=5
